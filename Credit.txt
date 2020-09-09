@@ -1,0 +1,4 @@
+1) res10_300x300_ssd_iter_140000.caffemodel
+2) deploy.prototxt
+
+The above two files are taken from the Face Detection module of www.pyimagesearch.com 
